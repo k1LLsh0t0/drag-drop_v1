@@ -1,8 +1,7 @@
-# Ignore node_modules (VERY IMPORTANT)
+# Ignore dependencies and build files
 node_modules/
-npm-debug.log
 dist/
-.DS_Store
 .vscode/
+.DS_Store
 .env
 package-lock.json
